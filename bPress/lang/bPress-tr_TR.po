@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-02-20 16:29+0200\n"
+"PO-Revision-Date: 2016-02-20 16:32+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bPress/WP2P.class.php:85
+msgid "We're coming soon"
+msgstr "Çok  yakında biz geliyoruz"
+
+#: bPress/WP2P.class.php:86
+msgid "We are working very hard on the new version of our site. Stay tuned"
+msgstr "Biz sitemizin yeni sürümünde çok sıkı çalışıyoruz"
+
+#: bPress/WP2P.class.php:88
+msgid "Day"
+msgstr "Gün"
+
+#: bPress/WP2P.class.php:89
+msgid "Hours"
+msgstr "Saat"
+
+#: bPress/WP2P.class.php:90
+msgid "Minutes"
+msgstr "Dk"
+
+#: bPress/WP2P.class.php:91
+msgid "Seconds"
+msgstr "Sa"
+
+#: bPress/WP2P.class.php:341
+msgid "has been successfully updated"
+msgstr "başarıyla güncellendi"
+
+#: bPress/WP2P.class.php:355
+msgid "User Guide"
+msgstr "Kullanıcı Rehberi"
+
+#: bPress/WP2P.class.php:358
+msgid "Install"
+msgstr "Yükleme"
+
+#: bPress/WP2P.class.php:359
+msgid "Run"
+msgstr "Kullan"
+
+#: bPress/WP2P.class.php:360
+msgid "Enjoy"
+msgstr "Enjoy"
+
+#: bPress/WP2P.class.php:361
+msgid "Ask for Support if you need"
+msgstr "Eğer ihtiyacınız varsa Destek isteyin"
+
+#: bPress/WP2P.class.php:402 bPress/WP2P.class.php:456
+#: bPress/WP2P.class.php:471
+msgid "Enable"
+msgstr "Enable"
+
+#: bPress/WP2P.class.php:405 bPress/WP2P.class.php:459
+#: bPress/WP2P.class.php:474
+msgid "Disable"
+msgstr "Disable"
+
+#: bPress/WP2P.class.php:409 bPress/WP2P.class.php:410
+msgid "Versus Title"
+msgstr "Versus Title"
+
+#: bPress/WP2P.class.php:414 bPress/WP2P.class.php:415
+msgid "Show after (X) posts"
+msgstr "Show after (X) posts"
+
+#: bPress/WP2P.class.php:423 bPress/WP2P.class.php:495
+#: bPress/WP2P.class.php:537
+msgid "Save"
+msgstr "Gönder"
+
+#: bPress/WP2P.class.php:462
+msgid "Please pick the date"
+msgstr ""
+
+#: bPress/WP2P.class.php:484 bPress/WP2P.class.php:526
+msgid "Hide"
+msgstr "Gizlemek"
+
+#: bPress/WP2P.class.php:487 bPress/WP2P.class.php:529
+msgid "Show"
+msgstr "Göster"
+
+#: bPress/WP2P.class.php:553
+msgid "Announcement"
+msgstr "Duyuru"
+
+#: bPress/WP2P.class.php:565
+msgid "Report"
+msgstr "Rapport"
+
+#: bPress/WP2P.class.php:577
+msgid "Store"
+msgstr "Boutique"
